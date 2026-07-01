@@ -14,6 +14,7 @@ audio-fa.scdn.co
 gew4-spclient.spotify.com
 shared.akamai.steamstatic.com
 cdn2.smoot.apple.com
+gew1-spclient.spotify.com
 gew1-spclient.spotify.com/melody
 gew1-spclient.spotify.com/connect-state
 gew1-spclient.spotify.com/melody
